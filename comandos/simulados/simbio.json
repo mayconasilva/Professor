@@ -1,0 +1,59 @@
+[
+	{
+        "question": "(ENEM 2019) A esquistossomose (barriga-d’água) caracteriza-se pela inflamação do fígado e do baço causada  pelo verme Schistosoma mansoni (esquisitossomo). O contágio ocorre depois que larvas do verme são liberadas na água pelo caramujo do gênero Biomphalaria, seu hospedeiro intermediário, e penetram na pele humana. Após o diagnóstico, o tratamento tradicional utiliza medicamentos por via oral para matar o parasita dentro do corpo. Uma nova estratégia terapêutica baseia-se na utilização de uma vacina, feita a partir de uma proteína extraída do verme, que induz o organismo humano a produzir anticorpos para combater e prevenir a doença. Instituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz anuncia nova fase de vacina para esquistossomose. 'Disponível em: http://agencia.fiocruz.br. Acesso em: 3 maior 2019 (adaptado)' Uma vantagem da vacina em relação ao tratamento tradicional é que ela poderá: A - Impedir a penetração do organismo na pele; B - Eliminar o caramujo para que não haja contado; C - impedir o acesso do esquistossomo especificamente para o fígado; D - eliminar o esquistossomo antes que ocorra contato com o organismo; E - eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas ",
+		"answers": ["E"]
+    },
+    {
+        "question": "(Exercícios Brasil Escola) As células eucariontes podem ser classificadas em dois grupos principais: células animais e células vegetais. Essas últimas apresentam algumas estruturas exclusivas, tais como os cloroplastos, que são responsáveis pelo processo de fotossíntese. Analise as alternativas a seguir e marque a única estrutura que não pode ser utilizada para diferenciar uma célula vegetal da animal. a) cromoplastos. b) leucoplastos. C) vacúolo de suco celular. d) mitocôndria.e) parede celular.",
+        "answers": ["D"]
+    },
+    {
+        "question": "(Exercícios Brasil Escola) Vacúolos são estruturas existentes em diferentes tipos celulares, entretanto, o vacúolo de suco celular é uma estrutura típica da célula vegetal. Observe as funções abaixo e marque aquela que não pode ser atribuída ao vacúolo. a) Atua no armazenamento de substâncias. b) Participa do processo de respiração celular. c) Realiza a digestão de componentes celulares. d) Promove o controle osmótico. e) Ajuda na manutenção do pH.",
+        "answers": ["B"]
+    },
+    {
+        "question": "(Exercícios Mundo Educação) Analise as alternativas a seguir e marque aquela que indica corretamente o nome do maior grupo de fungos existente. a) Microsporídia. b) Ascomycota. c) Basidiomycota. d) Chytridiomycota. e) Blastocladiomycota.",
+        "answers": ["B"]
+    },
+    {
+        "question": "(ENEM PPL 2019) Pesquisadores descobriram que uma espécie de abelha sem ferrão nativa do Brasil — a mandaguari (Scaptotrigona depilis) — cultiva um fungo nos ninhosdentro da colmeia. Após observações, verificaram que a sobrevivência das larvas da abelha depende da ingestão de filamentos do fungo, que produz metabólitos secundários com ação antimicrobiana, antitumoral e imunológica, além da alimentação convencional. Por  sua vez, o fungo depende da abelha para se reproduzir  e garante a sua multiplicação ao longo das gerações. 'MIURA, J. Pequenas agricultoras: abelhas Mandaguari cultivam fungos para alimentar suas larvas. Disponível em: www.embrapa.br. Acesso em: 3 maio 2019 (adaptado).'  O uso de fungicida ocasionaria à colmeia dessa espécie o(a): A) controle de pragas; B) acúmulo de resíduos; C) ampliação de espaço; D) redução da população; E) incremento de alimento.",
+        "answers": ["D"]
+
+    },
+    { 
+        "question": "(UFC) Assinale a alternativa que descreve, corretamente, a importância ecológica e/ou econômica dos fungos. a) Os mixomicetos são capazes de degradar oxidativamente o ferro, proporcionando a reciclagem de sucata metálic; b) Os deuteromicetos possuem representantes capazes de síntese de compostos orgânicos a partir da fotólise da molécula de água; c) Os basidiomicetos são comumente utilizados como suplemento alimentar e para a produção de bebidas alcoólicas como o vinho e a cerveja; d) As “leveduras” são capazes de inibir o funcionamento material genético da célula infectada e passar a comandar a síntese de proteínas desta; e) Os esporos de algumas espécies de ascomicetos são utilizados na síntese de pigmentos utilizados na indústria de alimentos.",
+        "answers": ["E"]
+    },
+    {
+        "question": "(Exercícios Mundo Educação) Orelha de pau é uma espécie de cogumelo que cresce nos troncos das árvores. https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo/fungo.jpg.  Analise as alternativas e marque aquela que indica corretamente o nome do grupo de fungos ao qual esses cogumelos pertencem. a) Microsporídi; b) Ascomycota; c) Basidiomycota; d) Chytridiomycota; E) Blastocladiomycota.",
+        "answers": ["C"]
+    },
+    {"question": "(ENEM PPL 2019 )As algas são uma opção sustentável na produção de biocombustível, pois possuem estrutura simples e se reproduzem mais rapidamente que os vegetais, além da grande capacidade de absorverem dióxido de carbono.Esses organismos não são constituídos por tecidos heterogêneos, entretanto, assim como os vegetais, possuem parede celular.'Algas podem substituir metade do petróleo e inaugurar química verde (Agência Fapesp, 16/08/2010). Disponível em: www.inovacaotecnologica.com.br. Acesso em: 1 ago. 2012 (adaptado).' Para obtenção de biocombustível a partir de algas e vegetais, é necessário utilizar no processo a enzima A amilase. B maltase. C celulase.D fosfatase. E quitinase.",
+    "answers": ["C"]
+},
+{
+    "question": "(ENEM 2015) Tanto a febre amarela quanto a dengue são doenças causadas por vírus do grupo do arbovírus, pertecentes ao gênero Flavivirus, existindo quatro sorotipos para o vírus causador da dengue. A transmissão de ambas acontece por meio da picade de mosquitos, como Aedes aegypti. Entretanto, embora compartilhem essas características, hojr somente existe vacina, no Brasil, para a febre amarela e nenhuma vacina efetiva para a Dengue. 'Ministério da Saúde. Disponível em <http://portal.saude.gov.br>. Acesso em 07 de agosto de 2012(adaptado).' Este fato pode ser atribuído à: A) maior taxa de mutaçaõ do vírus da febre amarela do que vírus da dengue; B) alta variabilidade antigênica do vírus da febre amarela; C) menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela; D) presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo de vírus da febre amarela; E) baixa capacidade de indução da resposta imunológica pelo vírus em relação ao da febre amarela.",
+    "answers": ["B"]
+},
+{
+    "question": "(UFSC 2017) A figura abaixo representa uma sala de aula com as carteiras organizadas em filas verticais (A-E) e filas horizontais (F-I), sendo que cada aluno tem uma numeração (01 a 20). O professor distribuiu para cada aluno uma placa com uma característica/informação de um grupo animal ou de um animal específico e propôs a seguinte dinâmica: os alunos deveriam levantar suas placas de acordo com seu comando. Com base nos conhecimentos relacionados aos assuntos tratados, é correto afirmar que: 1) o professor solicitou aos alunos que estão representados pelos números múltiplos de quatro que levantassem as suas placas. Pode-se afirmar que crocodilos e jacarés apresentam todas as características presentes nas placas levantadas; 2) o professor solicitou aos alunos das filas “E” e “I” que levantassem as suas placas. Pode-se afirmar que os mamíferos apresentam todas as características presentes nas placas levantadas. 4) o professor solicitou aos alunos que levantassem as placas cujas informações se referissem ao transmissor da filariose. Devem ser levantadas as placas dos alunos 03, 06, 08, 11, 14 e 17.8) a quantidade de placas que correspondem a características dos seres humanos equivale à metade do total de placas.16) o professor solicitou aos alunos que levantassem as placas cujas informações se referissem às características gerais dos anfíbios adultos. Devem ser levantadas as placas dos alunos 03, 04, 08, 11, 12, 16, 17 e 20. 32) a característica contida na placa do aluno 20 está presente nos moluscos, artrópodes, equinodermas e cordados. Escreva a soma das respostas corretas https://www.infoescola.com/wp-content/uploads/2018/02/Clipboard01-2-600x335.jpg",
+    "answers": ["26"]
+
+},
+{
+    "question": "(Enem/2018)A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água. A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é o(a): a) diminuição do cálice. b) alongamento do ovário. c) disponibilização do néctar. d) intensificação da cor das pétalas. e) aumento do número de estames.",
+    "answers": ["E"]
+},
+{
+    "question": "(Enem/2017) A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal. 'RICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado)' A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela: a) dominância incompleta do alelo mutante em relação ao alelo normal. b) falha na separação dos cromossomos X no momento da separação dos dois embriões. c) recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões. d) inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões. e) origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra",
+    "answers":["D"]
+},
+{
+    "question":"A região do nosso planeta ocupada pelos seres vivos constitui a(o): a) Biosfera b) Biocora c) Biologia d) Bioma e) Nicho Ecológico",
+    "answers":["A"]
+},
+{
+    "question": "A zona de crescimento da raiz fica situada: a) entre a zona pilífera e a zona de ramificação; b) entre a coifa e a zona pilífera; c) entre a coifa e a zona de ramificação; d) entre a zona de ramificação e a zona pilífera; e) distribuída ao longo de toda a extensão do órgão.",
+    "answers":["B"]
+}
+]

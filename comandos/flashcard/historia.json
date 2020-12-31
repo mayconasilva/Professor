@@ -1,0 +1,210 @@
+[
+    {
+        "Nome": "Período Paleolítico",
+        "periodohistorico": "Antes da Escrita",
+        "IMG": "https://materiaincognita.com.br/wp-content/uploads/2013/03/Pinturas-rupestres.jpg",
+        "resumo":"Foi o primeiro período da existência Humana, ele é uma divisão da chamada Pré-História. Ele compreende 2,7 milhões de anos a 10000 anos atrás. Ele também pode ser chamado de idade da pedra lascada. Fonte da Imagem: Matéria Incognita",
+        "localidade":"Sem local"
+    },
+    {
+        "Nome": " Cavernas",
+        "periodohistorico": "Antes da Escrita",
+        "IMG": "https://static.historiadomundo.com.br/2020/05/caverna.jpg",
+        "resumo":"Por um período longo de nossa história, eramos nômades. Isto é, não possuíamos moradias fixas, partes dos humanos que viviam na época mudavam constatementes, ao chegar em um local se estabeleciam em cavernas, ou até mesmo tentas com madeira. Assim que os recursos do locais acabasse eles se mudam. Fonte da Imagem: História do Mundo",
+        "localidade":"Sem local"
+    },
+    {
+        "Nome": "Artes Rupestres",
+        "periodohistorico":"Antes da Escrita",
+        "IMG": " https://static.historiadomundo.com.br/2020/05/pintura-rupestre.jpg",
+        "resumo":" Esta foi a primeira forma que ser humano encontrou para contar sobre suas ações. A arte rupestre surgiu ainda no período paleolítico. Essas pinturas ilustravam o cotidiano do homem. Na imagem podemos ver uma pintura. Fonte da imagem: História do Mundo",
+        "localidade":"Sem local"
+    },
+    {
+        "Nome": "Ferramentas",
+        "periodohistorico":"Antes da Escrita",
+        "IMG": "https://static.historiadomundo.com.br/2020/05/pedra-lascada.jpg",
+        "resumo":"Esta ai a razão do nome pedra lascada. As ferramentas que eram fabricadas pelos  homens durante este período era de pedras lascadas. Na imagem podemos fragmentos dos item produzidos pelo homem",
+        "localidade":"Sem local"
+    },
+    {
+        "Nome":"Período Neolítico",
+        "periodohistorico":"Antes da Escrita",
+        "IMG":"https://conhecimentocientifico.r7.com/wp-content/uploads/2020/01/neolitico-o-que-e-historia-e-caracteristicas-do-periodo-pre-historico.jpg",
+        "resumo":"Período ocorrido entre 8000 a.C. e 5000 a.C., ele ficou conhecido como idade da pedra polida. A razão desse nome era que a partir daqui o ser humano começou a produzir suas ferramentas com pedra polida. Este período foi marcado pela sedentarização do ser humano e consequetemente o desenvolvimento de atividades como agricultura e pastoreio",
+        "localidade":"Sem local"    
+    },
+    {
+        "Nome":"Objetos usados pelos homens",
+        "periodohistorico":"Antes da Escrita",
+        "IMG":"https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/07/objetos-neopolitico.jpg",
+        "resumo":"Exemplos de objetos utilizados pelo homem. É possível verificar que são bem diferentes das ferrasmentas usados no paleolítico",
+        "localidade":"Sem Local"
+    },
+    {
+        "Nome":"Primeiras Moradias",
+        "periodohistorico":"Antes da Escrita",
+        "IMG":"https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/07/moradia.jpg",
+        "resumo":"Com a sedenterização do homem, foi possível surgir novas moradias. O ser humano passou a construir casas.",
+        "localidade":"Sem dados"
+    },
+    {
+        "Nome":"Stonehenge",
+        "periodohistorico":"Antes da Escrita",
+        "IMG":"https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/07/stonehenge.jpg",
+        "resumo":"Na imagem podemos ver uma construção religiosa dos celtas. Acredita-se que eles utilizavam estas construções para rituais de sua religião.",
+        "localidade":"Atual Reino Unido"
+    },
+    {
+        "Nome":"HistóriaIdade Antiga",
+        "periodohistorico":"História: Idade Antiga",
+        "IMG":"https://s1.static.brasilescola.uol.com.br/be/conteudo/images/ff213f42ec36b904795539e85192653a.jpg",
+        "resumo":"A partir do período em que o ser humano inventou a escrita, passou a ser chamado de história. Para facilitar, este foi dividido em (Idade Antioga, Idade Medieval, Idade Moderna, Idade Conteporânea. Aqui nós iremos falar da idade Antiga. A idade antiga corresponde de 4000 a.C. a 476 d.C.. Neste período você irá conhecer diversas civilizações que surgiram na época. Na imagem você irá ver o apogeu de uma das civilizaçõe antigas que existe até os dias atuais."
+    },
+    {
+        "Nome":"Antigo Egito",
+        "IMG":"https://cdn.britannica.com/s:575x450/93/184693-004-E3F575A5.jpg",
+        "localidade":"Antigo Egito",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"A civilização egípcia é uma das mais antigas da história e mais famosas da nossa história. Ela surgiu por volta de 5 mil anos atrás no vale do Rio Nilo, no norte da África"
+    },
+    {
+        "Nome":"Rio Nilo",
+        "IMG":"https://s4.static.brasilescola.uol.com.br/be/2020/07/barcos-em-assua.jpg",
+        "localidade":"Nordeste da Áfica",
+        "periodohistorico":"",
+        "resumo":"Um rio de extrema importância para a história do Egito. Ele é o principal motivo para possibilitar a vida humana no local. Sem ele seria impossível sobreviver naquele local sem água."
+    },
+    {
+        "Nome":"Pirâmides no  Antigo Egito",
+        "IMG":"https://cdn.britannica.com/s:575x450/39/155939-004-6A36CD8E.jpg",
+        "localidade":"Antigo Egito",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Este é um dos maiores mistérios da humanidade. Como uma civilização antiga conseguiu construir algo desse tamanho? Existe algumas explicações que são aceitas. Está querendo saber? Pesquise."
+    },
+    {
+        "Nome":"Antigo Egito: Antigo Império",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ancient_Egypt_map-pt.svg/280px-Ancient_Egypt_map-pt.svg.png",
+        "localidade":"Antigo Egito",
+        "resumo":"Anteriormente, havia sociedades denominadas nomus nas margens do rio Nilo. Ambos eram independentes entre sí e só trabalhavam em grupo quando havia um problema em comum. Somente anos mais tarde ele se uniram e formaram o Reino do Alto Egito e o Reino do Baixo Egito. Por volta de 3250 a.C. eles se uniram e formaram o primeiro império, onde o primeiro faraó era Menés. O poder era centralizado na cidade de Mênfis. Devido alguns problemas, houve revoltas e isso levou ao fim do Antigo Império",
+        "periodohistorico":"História: Idade Antiga"
+    },
+    {
+        "Nome":"Antigo Egito: Sociedade",
+        "IMG":" https://www.coladaweb.com/wp-content/uploads/egito-antigo.jpg",
+        "localidade":"Antigo Egito",
+        "resumo":" Era assim a organização da Sociedade no antigo Egito",
+        "periodohistorico":"História: Idade Antiga"
+    },
+    {
+        "Nome":" Antigo Egito: Médio Império",
+        "localidade":"Antigo Egito",
+        "resumo":"Ocorrido entre 2040 a.C. a 1785 a.C.. As revoltas foram paradas e para ajudar a unificar o Norte e o Sul a capital foi transferida para Tebas. Neste período o império começou a ser expandido para a Núbia, ao sul. Este período chegou o fim quando com a Conquista do Egito pelos hiesos",
+        "periodohistorico":"História: Idade Antiga"
+        
+    },
+    {
+        "Nome":" Antigo Egito: Novo Império",
+        
+        "localidade":"Antigo Egito",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Novamente a nobreza de Tebas(que ergueu o médio império), conseguiu erguer o novo império ao expulsar os hicsos. Isso ocorreu entre 1500 e 1085 a.C.. Com as técnicas que aprenderam com os hicsos  invadiram cidades como Jerusaléme Babilônia. Os povos dominados eram obrigados a pagar impostos ao faraó. Foi em 1167 a.C., o Império Egípcio foi agitado por revoltas populares, entrando em período de decadência. A maioria da população era sobrecarregada de impostos e afundava em crescente pobreza. Enquanto isso, o faraó e sua família, os chefes militares e os sacerdotes exibiam luxo, riqueza e poder."
+    },
+    {
+        "Nome":"Antigo Egito:Religião",
+        "localidade":"Antigo Egito",
+        "resumo":"Os antigos egípcios eram políteistas, isto é, acreditavam em vários deuses. Na imagem Hórusm, um dos principais deusas da mitologia.",
+        "periodohistorico":"História: Idade Antiga",
+        "IMG":"https://i1.wp.com/acordeiqueroviajar.com.br/wp-content/uploads/2018/10/H%C3%B3rus-Mitologia-eg%C3%ADpcia.jpg?resize=768%2C576&ssl=1"
+    },
+    {
+        "Nome":"Antigo Egito: Escrita",
+        "localidade":"Antigo Egito",
+        "resumo":"A escrita Egípcia era bem diferente das que conhecemos hoje me dia, era é chamada de Hieróglifos. Só conseguimos entende-la devida a uma descoberta arqueológica, a Pedra de Roseta",
+        "periodohistorico":"História: Idade Antiga",
+        "IMG":"https://i1.wp.com/acordeiqueroviajar.com.br/wp-content/uploads/2018/10/20171110_075751_Easy-Resize.com_.jpg?resize=768%2C576&ssl=1"
+    },
+    {
+        "Nome":"Mesopotâmia",
+        "localidade":"Atual Oriente Médio",
+        "resumo":"É muma pequena região no atual Oriente Médio, foi a partir dali que começou a surgir as primeiras civilizações e a primeira escrita. Essa região fica localizada entre os rios Tigre e Eufrates.",
+        "periodohistorico":"História: Idade Antiga",
+        "IMG":" https://www.thoughtco.com/thmb/UlvIqo0xTbghoCwo6A-MofeYIAo=/3500x2299/filters:no_upscale():max_bytes(150000):strip_icc()/map_of_mesopotamia-d2d7dc5ab7dd4e7f8cc7ed183642e5ce.jpg"
+    
+    },
+    {
+        "Nome":"Sumérios",
+        "localidade":"Mesopotâmia",
+        "resumo":"Foi um dos primeiros povos a se instalarem na região da Mesopotâmia. Eles foram os responsáveis do desenvolvimento da primeira escrita, a escrita cuneiforme",
+        "periodohistorico":"História: Idade Antiga",
+        "IMG":"https://www.resumoescolar.com.br/wp-content/imagens/sumerio2.jpg"
+    },
+    {
+        "Nome":"Sumérios:Cidades-Estados",
+        "localidade":"Mesopotâmia",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dinastico_arcaico-pt.svg/280px-Dinastico_arcaico-pt.svg.png",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"As cidades Sumérias se desenvolveram no conceito de cidades-estados(Essa forma também pode ser vista em outros lugares). As cidades-estados são autônomas e diferentes entre sí "
+    },
+    {
+        "Nome":"Escrita cuneiforme",
+        "localidade":"Mesopotâmia",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bill_of_sale_Louvre_AO3765.jpg/220px-Bill_of_sale_Louvre_AO3765.jpg",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Esta foi a primeira forma de escrita criada conhecidade. São atribuídos a eles a origem da escrita"
+    },
+    {
+        "Nome":"Agricultura e caça",
+        "localidade":"Mesopotâmia",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ur_mosaic.jpg/420px-Ur_mosaic.jpg",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Na Suméria era desenvolvida atividades de caça e plantio. "
+    },
+    {
+        "Nome":"Sumérios: Construções",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/220px-Ziggarut_of_Ur_-_M.Lubinski.jpg",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Na antiga suméria eram construidas construções plano-convexas e de tijolos de barro"
+    },
+    {
+        "Nome":"Sumérios: Religião",
+        "IMG":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Upper_part_of_a_gypsum_statue_of_a_Sumerian_woman._The_hands_are_folds_in_worship._Circa_2400_BCE._From_Mesopotamia%2C_Iraq._The_British_Museum%2C_London.jpg/220px-Upper_part_of_a_gypsum_statue_of_a_Sumerian_woman._The_hands_are_folds_in_worship._Circa_2400_BCE._From_Mesopotamia%2C_Iraq._The_British_Museum%2C_London.jpg",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Os sumérios eram politeístas, isto é, acreditavam em vários deusas."
+    },
+    {
+        "Nome":"Os Assírios",
+        "IMG":"https://static.historiadomundo.com.br/conteudo/images/a-maquina-guerra-assiria-foi-uma-das-mais-eficientes-antiguidade-546252e112e37.jpg",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Os Asírios assim como os Sumério viveram na Mesopotâmia, mas especificamente na alta Mesopotâmia"
+    },
+    {
+        "Nome":"Os Assírios:Arte da Guerra",
+        "IMG":"https://www.coladaweb.com/wp-content/uploads/2017/01/20170116-assirios.jpg",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Os Assírios eram conhecidos por serem implacavéis na Guerra"
+    },
+    {
+        "Nome":"Os Assírios: Religião e Ciência",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"Os Assírios eram politeístas, acreditavam que o sol e os astros eram os deuses. Por este motivo eles possuíam conhecimento sobre a astronomia"
+    },
+    {
+        "Nome":"Os Assírios: Economia",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"A economia assíria era baseado no saque adquirido através da guerras. Eles também trabalhavam, de maneira rudimentar na agricultura e comercio"
+    },
+    {
+        "Nome":"Os Assírios: Artes",
+        "IMG":"https://static.historiadomundo.com.br/conteudo/images/a-maquina-guerra-assiria-foi-uma-das-mais-eficientes-antiguidade-546252e112e37.jpg",
+        "localidade":"Mesopotâmia",
+        "periodohistorico":"História: Idade Antiga",
+        "resumo":"As artes assírias eram marcadas pelo realismo(algo real, sem representação mitológica, não o movimento literário de mesmo nome), continham baixo relevo e ilustravam a caça e aguerra" 
+    }
+]

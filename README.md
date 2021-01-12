@@ -34,6 +34,5 @@ Seja Bem Vindo ao  **Professor*
 * p!simbio;
 * p!simfis;
 * p!simquis.
-# Minhas dependências:## Necessárias:
-* discord.js;
-* quickdb
+# Minhas dependências:
+* discord.js

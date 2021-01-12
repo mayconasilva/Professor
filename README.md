@@ -1,6 +1,6 @@
 # Professor
 Um bot do discord gratuito criado para fins educacionais. O meu link de convite é: https://discord.com/api/oauth2/authorize?client_id=764237884608872459&amp;permissions=3308800&amp;scope=bot
-Seja Bem Vindo ao  **Professor* 
+Seja Bem Vindo ao  **Professor** 
 # **Informações Úteis**
 * Bot criado em 27 de Outubro de 2020;
 * Atualmente na versão Alpha 1.3.0;

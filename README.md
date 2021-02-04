@@ -30,10 +30,8 @@ Seja Bem Vindo ao  **Professor**
 * p!vm - Calcule a Velocidade Média.
 
 # **Situação atual**
-# Os Seguintes comandos estão em atualização:
-* p!simbio;
-* p!simfis;
-* p!simquis.
+# O(s)Seguinte() comandos estão em atualização:
+* p!flashcard
 # Minhas dependências:
 * discord.js
 # Contato

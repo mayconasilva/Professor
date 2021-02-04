@@ -29,10 +29,12 @@ Seja Bem Vindo ao  **Professor**
 * p!twonewton - Calcule a força pela 2ª Lei de Newton;
 * p!vm - Calcule a Velocidade Média.
 
-# **Situação atual**#
+# **Situação atual**
 # Os Seguintes comandos estão em atualização:
 * p!simbio;
 * p!simfis;
 * p!simquis.
 # Minhas dependências:
 * discord.js
+# Contato
+* **EMAIL**: mayconasilvadeveloper@gmail.com

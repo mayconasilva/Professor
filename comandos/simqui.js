@@ -10,7 +10,7 @@ module.exports.run = async(client, message, args) => {
     let res = []
     let ans = []
     const filter = () => true
-    message.channel.send("Orientações Gerais: 1- São 10 questões no total; 2- As respostas das questões serão conferidas no final; 3- Evite pegar respostas da internet, utilize do seu próprio conhecimento;4- Assis que estiver pronto digite o.k. ou qualquer coisa(Irá aparecer no seu gabarito) para continuar ")
+    message.channel.send("Orientações Gerais: \n 1- São 10 questões no total; \n 2- As respostas das questões serão conferidas no final; \n 3- Evite pegar respostas da internet, utilize do seu próprio conhecimento; \n4- Assim que estiver pronto digite o.k. ou qualquer coisa(Irá aparecer no seu gabarito) para continuar. \n obs: Tem algums sugestão de questão: Envie as sugestões para mayconasilvadeveloper@gmail.com  ")
     const collector = message.channel.createMessageCollector(m => {
         return m.author.id === message.author.id });
        

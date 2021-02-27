@@ -54,7 +54,44 @@
     {
         "question":"(PUC/RJ - 2018)\n Duas cargas elétricas +Q e +4Q estão fixas sobre o eixo x, respectivamente nas posições x = 0,0 m e x = 1,0 m. Uma terceira carga é posicionada entre as duas, sobre o eixo x, tal que se encontra em equilíbrio eletrostático. Qual é a posição da terceira carga, em m? \n a) 0,25 \n b) 0,33 \n c) 0,40 \n d) 0,50  \ne) 0,66",
         "answers":["B"]
-    }
+    },
+    {
+        "question":"(Fafi-MG) Dizer que a carga elétrica é quantizada significa que ela:\n\n a)só pode ser positiva\n b)só pode existir como múltipla de uma quantidade mínima definida\n c)pode ser positiva ou negativa\n d)não pode ser criada nem destruída\n e)pode ser isolada em qualquer quantidade",
+       "answers":["B"]
+      },
+      {
+        "question":"(PUC-MG)Quando navega a favor da correnteza, um barco desenvolve 40 km/h;navegando contra, faz 30 km/h. Para ir de A até B, pontos situados namesma margem, gasta três horas menos que na volta. A distância entre Ae B é de:\n\n a)3 km/h\n b)10 km/h\n c)4,5 km/h\n d)9 km/h\n e)6 km/h"
+      },
+      {
+        "question":"https://blogdoenem.com.br/wp-content/uploads/2016/04/fsicamovime1.png\n  UFPE) A escadarolante de uma galeria comercial liga os pontos A e B em pavimentosconsecutivos a uma velocidade ascendente constante de 0,5 m/s, conformemostrado na figura. Se uma pessoa consegue descer contra o sentido demovimento da escada e leva 10 segundos para ir de B até A, pode-seafirmar que sua velocidade, em relação à escada, foi em m/s igual a:\n a)1,5\n b)1,0\n c)0,5\n d)0,0\n e)2,0"
+      },
+      {
+        "quetion": "(EsPECx - 2013)\n Um termômetro digital, localizado em uma praça na Inglaterra, marca a temperatura de 10,4 ºF. Essa temperatura, na escala Celsius, corresponde a\n\na) - 5 ºC\nb) - 10 ºC\nc) - 12 ºC\nd) - 27 ºC\ne) - 39 ºC",
+        "answers": [
+          "C"
+        ]
+      },
+      {
+        "question": "(Aprendiz de Marinheiro - 2018)\n Três termômetros de mercúrio são colocados num mesmo líquido e, atingido o equilíbrio térmico, o graduado na escala Celsius registra 45 ºC. Os termômetros graduados nas escalas Kelvin e Fahrenheit, respectivamente, devem registrar que valores?\n\na) 218 K e 113 ºF\nb) 318 K e 113 ºF\nc) 318 K e 223 ºF\nd) 588 K e 313 ºF\ne) 628 K e 423 ºF",
+        "answers": [
+          "B"
+        ]
+      },
+      {
+        "question": "(PUC/SP - 2018)\n Uma determinada massa de gás perfeito está contida em um recipiente de capacidade 10,0 litros, sob pressão de 3,5 atm e temperatura inicial de 25,0 ºC. Após sofrer uma transformação isocórica, sua pressão aumenta para 7,0 atm. Determine a variação de temperatura da massa de gás, nas escalas Celsius e Fahrenheit, respectivamente, devido a essa transformação.\n\na) 298 e 536,4.\nb) 298 e 568,4.\nc) 323 e 581,4.\nd) 323 e 613,4.",
+        "answers": [
+          "A"
+        ]
+      },
+      {
+        "question": "(Colégio Naval - 2016)\n Fossas abissais ou oceânicas são áreas deprimidas e profundas do piso submarino. A maior delas é a depressão Challenger, na Fossa das Marianas, com 11.033 metros de profundidade e temperatura da água variando entre 0 °C e 2 °C. De acordo com o texto, pode-se dizer que a pressão total sofrida por um corpo que esteja a uma altura de 33 m acima do solo dessa depressão e a variação de temperatura na escala absoluta (Kelvin) valem, respectivamente.\n\nDados: dágua = 1000 kg/m3; g = 10 m/s2; Patm = 1,0 . 105 N/m2\n\na) 1,101.108 N/m2 e 2 K.\nb) 11,01.108 N/m2 e 2 K.\nc) 1,101.108 N/m2 e 275 K.\nd) 11,01.108 N/m2 e 275 K.\ne) 110,1.108 N/m2 e 2 K.",
+        "answers": [
+          "A"
+        ]
+      },
+      {
+        "question":"UFRGS - 2018\n\nUma fonte de tensão cuja força eletromotriz é de 15 V tem resistência interna de 5 Ω. A fonte está ligada em série com uma lâmpada incandescente e com um resistor. Medidas são realizadas e constata-se que a corrente elétrica que atravessa o resistor é de 0,20 A, e que a diferença de potencial na lâmpada é de 4 V. Nessa circunstância, as resistências elétricas da lâmpada e do resistor valem, respectivamente,\n\na) 0,8 Ω e 50 Ω.\nb) 20 Ω e 50 Ω.\nc) 0,8 Ω e 55 Ω.\nd) 20 Ω e 55 Ω.\ne) 20 Ω e 70 Ω.",
+    "answers":["B"]}
     
     
 ]
